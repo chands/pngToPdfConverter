@@ -1,0 +1,1 @@
+# Python\n__pycache__/\n*.py[cod]\n*.class\n\n# Generated PDFs\n*.pdf\n\n# Source PNG files\n*.png\n\n# macOS\n.DS_Store
