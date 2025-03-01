@@ -81,3 +81,11 @@ April.pdf    - Contains both pages of April bill
 ## License
 
 This project is open source and available under the MIT License.
+
+## Developer setup
+
+Follow https://ixigodev.atlassian.net/wiki/spaces/MD/pages/2637725748/Android+Developer+Setup
+
+## CI
+
+See https://ixigodev.atlassian.net/wiki/spaces/MD/pages/2637168641/Android+CI+CD
